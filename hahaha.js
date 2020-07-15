@@ -1,2 +1,2 @@
 console.log('abc')
-console.log('bcd');
+console.log('qwe')
